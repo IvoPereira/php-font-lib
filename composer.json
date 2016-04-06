@@ -1,8 +1,8 @@
 {
-    "name": "phenx/php-font-lib",
+    "name": "ivopereira/php-font-lib",
     "type": "library",
     "description": "A library to read, parse, export and make subsets of different types of font files.",
-    "homepage": "https://github.com/PhenX/php-font-lib",
+    "homepage": "https://github.com/IvoPereira/php-font-lib",
     "license": "LGPL-3.0",
     "authors": [
         {
